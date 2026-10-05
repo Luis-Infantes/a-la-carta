@@ -82,7 +82,7 @@
 
 ----
 
-** ARQUITECTURA DE SOFTWARE
+## ARQUITECTURA DE SOFTWARE
 
 - En esta diapositiva veremos la tecnología empleada para este proyecto
 
